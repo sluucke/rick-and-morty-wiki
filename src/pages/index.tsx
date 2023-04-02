@@ -52,7 +52,9 @@ export default function Home() {
           <Styled.ContentContainer>
             <Input.Root>
               <Input.Input
-                {...register("name")}
+                {...register("name", {
+                  required: true,
+                })}
                 type="text"
                 placeholder="type the name of an character"
               />
