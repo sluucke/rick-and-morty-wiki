@@ -10,6 +10,8 @@ This project consists of and application where the user can see and favorite his
 
 This challenge was made for the `Green Acesso` test.
 
+Access [demo](https://rick-and-morty-wiki-david-william.vercel.app)
+
 ## 🔎 Technologies
 
 - Next.js
